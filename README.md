@@ -1,2 +1,2 @@
-# Hello,this is grad design
-New projects
+# Hello 001
+This is grad design record.
